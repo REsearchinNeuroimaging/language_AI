@@ -1,4 +1,4 @@
-lan_AI: AI based language organisation recognition
+language_AI: AI based language organisation recognition
 =======================================================
 
 "lan_AI" is a tool for recognising atypical or typical language organisation in resting-state functional magnetic resonance imaging (RS-fMRI) data. The program takes a preprocessed 4D NIfTI file as input and outputs the predicted probability of atypical language organization. 
